@@ -1,0 +1,10 @@
+=== Diário ===
+
+06/04/2017
+Pensei na ideia do projeto e comecei fazendo funções simples
+
+09/04/2017
+Trabalhei nas funcionalidade do jogo. Gastei bastante tempo para aprender como programar com o paradigma OO em Lua. 
+
+11/04/2017
+Criação do repositório no GitHub com o README. Criação deste diário.
