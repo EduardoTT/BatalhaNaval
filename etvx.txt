@@ -1,0 +1,6 @@
+==Pré-condições
+    - A entrada deve ser um número
+    - O número deve ser maior que 1 e menor que o tamanho do tabuleiro
+ 
+==Pós-condições
+    
