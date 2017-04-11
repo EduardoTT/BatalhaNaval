@@ -17,4 +17,4 @@ Trabalho da disciplina Princípios Engenharia de Software na PUC-rio 2017.1
 - Escreva no terminal o comando "lua BatalhaNaval.lua"
 
 == O Jogo
-- Seu objetivo é conseguir acertar todas as casas em que há navio, o mais rápido possível.
+- Seu objetivo é conseguir acertar todas as casas onde há navio, o mais rápido possível.
